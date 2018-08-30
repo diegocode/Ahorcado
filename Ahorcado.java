@@ -12,7 +12,6 @@ TODO:
 - i18n
 - Soporte para frases
 - Categorías para palabras?
-- Ayuda en línea?
 - Especificar nombre de archivo de palabras?
 
 */
